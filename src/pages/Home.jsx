@@ -14,7 +14,7 @@ function Home() {
         backgroundImage: `linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(${"https://fastly.picsum.photos/id/44/4272/2848.jpg?hmac=a0rRK2VqTNYMvxqfQjFI65m4ZzMGnKRJzHvrJovjoQQ"})`,
         backgroundSize: "cover",
         color: "#fff",
-        height: 864,
+        height: 860,
         backgroundPosition: "center",
         justifyContent: "center",
         alignItems: "center"

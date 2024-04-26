@@ -18,6 +18,7 @@ import * as React from "react";
 const drawerWidth = 240;
 const navItems = [
   "Home",
+  "About",
   "Portfolio",
   "Resume",
   "Testimonial",
